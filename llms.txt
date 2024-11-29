@@ -2,7 +2,7 @@
 
 > A factual timeline of professional education, experience, publications and achievements.
 
-Notable achievements are marked with a **.
+Noteworthy achievements are marked with a **.
 
 ## Education
 - B.Eng. in Mechanical Engineering Cum Laude at the University of Pretoria completed December 2010.
@@ -13,7 +13,6 @@ Notable achievements are marked with a **.
 - M.Sc. in Biomedical Engineering at the University of Cape Town completed December 2018.
   Coursework: Musculoskeletal Biomechanics, Human Anatomy and Physiology and Medical Image Processing.
   Dissertation: A structured light solution for detecting scapular dyskinesis.
-
 
 ## Professional experience
 
