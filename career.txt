@@ -30,7 +30,7 @@ From September 2021 to present as Senior Research and Development Engineer
 ** Software team lead for development of a large metal 3D printer. Managed a R5m budget and a small team to
  deliver a complex system with embedded PLC, back-end, front-end and desktop applications.
 
-Tools: PyTorch, TensorFlow, FastAPI, React, CI/CD, Docker, Pandas, OpenCV
+Tools: PyTorch, TensorFlow, FastAPI, React, CI/CD, Docker, Pandas, OpenCV, Nuitka, SQLite
 
 ### Private consulting work
 Ad hoc after hours work for various clients.
@@ -44,7 +44,7 @@ Ad hoc after hours work for various clients.
   - Centroid-tracker: laser centroid tracking for collimator alignment.
   - AutoEarth: Automated stratigraphy to optimize geological interpretations for mining applications.
 
-Tools: Scikit-Learn, TensorFlow, Python, Tkinter, Numpy, Scipy, Matplotlib
+Tools: Scikit-Learn, TensorFlow, Python, Tkinter, Numpy, Scipy, Matplotlib, Nuitka, SQLite, MongoDB
 
 ### HearX (Hearing Healthcare Startup)
 From January 2021 to August 2021 as Head of AI
@@ -73,7 +73,7 @@ From September 2016 to December 2017 as Quality Control Manager
 technical documentation and external audits.
 - Designed and implemented an ISO 13485 medical device quality management system.
 
-Tools: TensorFlow, Python, Numpy, Matplotlib, Ultimaker
+Tools: TensorFlow, Python, Numpy, Matplotlib, Ultimaker, Pandas, OpenCV
 
 ### Chromar Technology (Optical Systems Design)
 From January 2014 to December 2015 as Project Manager
