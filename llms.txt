@@ -1,21 +1,121 @@
 # Jaco Verster's Professional Career
 
-> A factual timeline of education, professional experiences and achievements.
+> A factual timeline of professional education, experience, publications and achievements.
 
 Notable achievements are marked with a **.
 
 ## Education
-
-- Completed B.Eng. in Mechanical Engineering Cum Laude at the University of Pretoria in December 2010. 
+- B.Eng. in Mechanical Engineering Cum Laude at the University of Pretoria completed December 2010.
   **Achieved third highest overall final year mark and won best final year project poster presentation award.
-- Completed B.Eng. Honours in Mechanical Engineering Cum Laude at the University of Pretoria in December 2013.
-  Coursework: Quality Management, Tribology, Design, Fatigue, Design of Welded Structures, Fracture Mechanics, Specialised Design and Control Systems.
-- Completed M.Sc. in Biomedical Engineering at the University of Cape Town in December 2018.
-  Coursework: Musculoskeletal Biomechanics, Human Anatomy and Physiology and Medical Image Processing. 
+- B.Eng. Honours in Mechanical Engineering Cum Laude at the University of Pretoria completed December 2013.
+  Coursework: Quality Management, Tribology, Design, Fatigue, Design of Welded Structures, Fracture Mechanics,
+  Specialised Design and Control Systems.
+- M.Sc. in Biomedical Engineering at the University of Cape Town completed December 2018.
+  Coursework: Musculoskeletal Biomechanics, Human Anatomy and Physiology and Medical Image Processing.
   Dissertation: A structured light solution for detecting scapular dyskinesis.
-  
-## Professional experiences
 
-### CMTI Consulting
 
-- Started working at CMTI Consulting as a junior project engineer in January 2011.
+## Professional experience
+
+### Council for Scientific and Industrial Research (CSIR) (Government Agency)
+In the Industrial AI group at the Centre for Robotics and Future Production
+From September 2021 to present as Senior Research and Development Engineer
+- Championed Docker containerization across multiple projects, ensuring better consistency.
+- Developed and deployed several object detection systems to solve industry related problems,
+  including pothole and traffic sign detection.
+- Part of a team that developed and maintained a traffic management plan system for a large
+  mining company, included processing of large amounts of geospatial data.
+- Implemented CI/CD pipelines for several critical projects to speed up development cycles.
+** Software team lead for development of a large metal 3D printer. Managed a R5m budget and a small team to
+ deliver a complex system with embedded PLC, back-end, front-end and desktop applications.
+
+Tools: PyTorch, TensorFlow, FastAPI, React, CI/CD, Docker, Pandas, OpenCV
+
+### Private consulting work
+Ad hoc after hours work for various clients.
+
+- Analysed time-series sensor data from magnetometers to predict traffic flow through intersections.
+- Consulted with machine learning team to streamline data collection and improve machine learning model performance.
+- Developed a security solution to analyse real-time video data for intruder detection using machine learning.
+- Developed several Python desktop applications:
+  ** Wavefront: real-time interferogram analysis using Zernike polynomials for testing mirrors.
+  ** MTF Tester: real-time measurement of the Modulation Transfer Function (MTF) for optical system testing.
+  - Centroid-tracker: laser centroid tracking for collimator alignment.
+  - AutoEarth: Automated stratigraphy to optimize geological interpretations for mining applications.
+
+Tools: Scikit-Learn, TensorFlow, Python, Tkinter, Numpy, Scipy, Matplotlib
+
+### HearX (Hearing Healthcare Startup)
+From January 2021 to August 2021 as Head of AI
+- Developed an AI strategy and initiated efforts to implement it across the organization.
+- Supervised model development, testing and validation of machine learning models for fitting hearing aids.
+- Lead clinical validation efforts for machine learning models used in healthcare applications.
+- Developed image data processing pipelines using Python for processing large image datasets to
+  streamline machine learning workflows.
+
+From January 2018 to December 2020 as Biomedical Engineer
+- Managed a team of engineers and technicians as part of a medical device manufacturing department.
+- Solved complex manufacturing and logistical problems across various time-zones to deliver products on-time.
+- Designed and 3D printed various parts used for medical device purposes.
+- Closely involved with the engineering and development of various hearing healthcare solutions including
+  [hearTest](https://www.hearxgroup.com/heartest) a pure tone tablet-based audiometer and [hearOAE](https://www.hearxgroup.com/hearoae)
+  a novel otoacoustic emission (OAE) device.
+- Led the engineering efforts for the [hearScope](https://www.hearxgroup.com/hearscope), a cutting-edge digital smartphone otoscope.
+** Developed, tested, and validated the machine learning model for hearScope to enable automatic detection of ear disease.
+** hearScope achieved finalist status at the 2018 MIT Solve Challenge in New York and the 2019 ASME Innovation Showcase in Kenya.
+
+From September 2016 to December 2017 as Quality Control Manager
+- Managed international medical device approvals for Europe (CE), United States (FDA) and Australia (TGA) including
+technical documentation and external audits.
+- Designed and implemented an ISO 13485 medical device quality management system.
+
+Tools: TensorFlow, Python, Numpy, Matplotlib, Ultimaker
+
+### Chromar Technology (Optical Systems Design)
+From January 2014 to December 2015 as Project Manager
+- Apprenticeship under Tymen Nagel, a world-renowned optical system designer.
+- Learned how to design optical systems for various applications, including lenses, mirrors, and other optical components.
+- Gained hands-on experience with optical design software and with manufacturing and testing of optical systems.
+- Managed projects from inception to completion, including budgeting, procurement, manufacturing, and commissioning.
+- Learned to effectively communicate complex concepts and ideas to various stakeholders.
+- Developed the ability to troubleshoot and solve complex design challenges.
+
+Tools: Zemax, Optalix
+
+### CMTI Consulting (Engineering Consulting)
+From January 2011 to January 2014 as Junior Engineer
+- Designed structures and machines to meet ISO standards and created 3D models using SolidWorks.
+- Verified designs through engineering calculations and finite element analysis using Siemens NX.
+- Wrote technical reports, created engineering drawings and met with clients to discuss.
+** Engineered and fabricated a stainless steel assembly jig for a large electric motor.
+** Developed and constructed a testing facility for underground mining robots utilizing a tiltable shipping container.
+
+Tools: SolidWorks, Siemens NX, Procon
+
+### Southern Implants (Dental Implant Manufacturer)
+- Completed a 3 Month student internship in January 2010 focussing on medical device market research and testing.
+
+## Publications
+
+- Verster, J., Roux, P., Magweregwede, F., de Ronde, W., Crafford, G., Mashaba, M., Turundu, S., Mpofu, M., Prinsloo, J., Ferreira,
+  P. and Brodner, H., 2023. A digital twin framework to support vehicle interaction risk management in the mining industry.
+  In MATEC Web of Conferences (Vol. 388, p. 11002). EDP Sciences.
+- Botha, N., Van Eden, B., Lehman, L. and Verster, J.J., 2023. Prototype design of an aerial robotic platform for indoor applications.
+- Naidoo, T., Verster, J.J. and Marais, S.T., 2022. A cloud-based road infrastructure analysis system using machine learning.
+- Verster, J., et al., 2020, AI-assisted Diagnosis for Middle Ear Pathologies. In Virtual Conference on Computational
+  Audiology, 2020.
+- Verster, J., Sivarasu, S., Mutsvangwa, T. and Gray, J., 2019, April. A Surface Curvature Technique for Analysing Scapular Dyskinesis.
+  In Frontiers in Biomedical Devices (Vol. 41037, p. V001T07A004). American Society of Mechanical Engineers.
+- Verster, J., 2018. A structured light solution for detecting scapular dyskinesis (master’s dissertation, University of
+  Cape Town).
+
+## Courses and certifications
+- Mastering REST APIs with FastAPI (Udemy)
+- Docker & Kubernetes: The Complete Practical Guide (Udemy)
+- Beginning C++ Programming - From Beginner to Beyond (Udemy)
+- Python GUI Development with Tkinter (LinkedIn)
+- Unit Testing in Python and Advanced Python(LinkedIn)
+- React.js Essential Training and React: Using TypeScript (LinkedIn)
+- Python for data science and machine learning bootcamp (Udemy)
+- Stanford Machine Learning (Coursera)
+- University of Basel Statistical Shape Modelling (FutureLearn)
