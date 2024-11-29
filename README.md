@@ -1,4 +1,4 @@
-# Jaco Verster's Professional Career
+# Jaco Verster's Professional Profile
 
 ## Bio
 
@@ -22,6 +22,6 @@ audiology, biomechanics, and industrial digital twins. His expertise
 spans computer vision, machine learning, and full-stack development, with
 extensive experience in PyTorch, TensorFlow, Docker, and Python.
 
-## CV
+## Career summary
 
-See [career.txt](career.txt) document.
+See [career.txt](career.txt).
