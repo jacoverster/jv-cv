@@ -1,6 +1,6 @@
 # Jaco Verster's Professional Profile
 
-## Bio
+### Bio
 
 Jaco Verster is a Senior Research and Development Engineer at the CSIR's
 Centre for Robotics and Future Production, where he leads AI and software
@@ -22,6 +22,6 @@ audiology, biomechanics, and industrial digital twins. His expertise
 spans computer vision, machine learning, and full-stack development, with
 extensive experience in PyTorch, TensorFlow, Docker, and Python.
 
-## Career summary
+### Career summary
 
 See [career.txt](career.txt).
