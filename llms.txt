@@ -1,0 +1,21 @@
+# Jaco Verster's Professional Career
+
+> A factual timeline of education, professional experiences and achievements.
+
+Notable achievements are marked with a **.
+
+## Education
+
+- Completed B.Eng. in Mechanical Engineering Cum Laude at the University of Pretoria in December 2010. 
+  **Achieved third highest overall final year mark and won best final year project poster presentation award.
+- Completed B.Eng. Honours in Mechanical Engineering Cum Laude at the University of Pretoria in December 2013.
+  Coursework: Quality Management, Tribology, Design, Fatigue, Design of Welded Structures, Fracture Mechanics, Specialised Design and Control Systems.
+- Completed M.Sc. in Biomedical Engineering at the University of Cape Town in December 2018.
+  Coursework: Musculoskeletal Biomechanics, Human Anatomy and Physiology and Medical Image Processing. 
+  Dissertation: A structured light solution for detecting scapular dyskinesis.
+  
+## Professional experiences
+
+### CMTI Consulting
+
+- Started working at CMTI Consulting as a junior project engineer in January 2011.
