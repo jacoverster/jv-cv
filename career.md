@@ -2,11 +2,12 @@
 
 > A factual timeline of professional education, experience, publications and achievements.
 
-Noteworthy achievements are marked with a **.
+Noteworthy achievements are marked with a \*\*.
 
 ## Education
+
 - B.Eng. in Mechanical Engineering Cum Laude at the University of Pretoria completed December 2010.
-  **Achieved third highest overall final year mark and won best final year project poster presentation award.
+  \*\*Achieved third highest overall final year mark and won best final year project poster presentation award.
 - B.Eng. Honours in Mechanical Engineering Cum Laude at the University of Pretoria completed December 2013.
   Coursework: Quality Management, Tribology, Design, Fatigue, Design of Welded Structures, Fracture Mechanics,
   Specialised Design and Control Systems.
@@ -17,20 +18,23 @@ Noteworthy achievements are marked with a **.
 ## Professional experience
 
 ### Council for Scientific and Industrial Research (CSIR) (Government Agency)
+
 In the Industrial AI group at the Centre for Robotics and Future Production
 From September 2021 to present as Senior Research and Development Engineer
+
 - Championed Docker containerization across multiple projects, ensuring better consistency.
 - Developed and deployed several object detection systems to solve industry related problems,
   including pothole and traffic sign detection.
 - Part of a team that developed and maintained a traffic management plan system for a large
   mining company, included processing of large amounts of geospatial data.
 - Implemented CI/CD pipelines for several critical projects to speed up development cycles.
-** Software team lead for development of a large metal 3D printer. Managed a R5m budget and a small team to
- deliver a complex system with embedded PLC, back-end, front-end and desktop applications.
+  \*\* Software team lead for development of a large metal 3D printer. Managed a R5m budget and a small team to
+  deliver a complex system with embedded PLC, back-end, front-end and desktop applications.
 
 Tools: PyTorch, TensorFlow, FastAPI, React, CI/CD, Docker, Pandas, OpenCV
 
 ### Private consulting work
+
 Ad hoc after hours work for various clients.
 
 - Analysed time-series sensor data from magnetometers to predict traffic flow through intersections.
@@ -45,7 +49,9 @@ Ad hoc after hours work for various clients.
 Tools: Scikit-Learn, TensorFlow, Python, Tkinter, Numpy, Scipy, Matplotlib
 
 ### HearX (Hearing Healthcare Startup)
+
 From January 2021 to August 2021 as Head of AI
+
 - Developed an AI strategy and initiated efforts to implement it across the organization.
 - Supervised model development, testing and validation of machine learning models for fitting hearing aids.
 - Lead clinical validation efforts for machine learning models used in healthcare applications.
@@ -53,6 +59,7 @@ From January 2021 to August 2021 as Head of AI
   streamline machine learning workflows.
 
 From January 2018 to December 2020 as Biomedical Engineer
+
 - Managed a team of engineers and technicians as part of a medical device manufacturing department.
 - Solved complex manufacturing and logistical problems across various time-zones to deliver products on-time.
 - Designed and 3D printed various parts used for medical device purposes.
@@ -60,18 +67,21 @@ From January 2018 to December 2020 as Biomedical Engineer
   [hearTest](https://www.hearxgroup.com/heartest) a pure tone tablet-based audiometer and [hearOAE](https://www.hearxgroup.com/hearoae)
   a novel otoacoustic emission (OAE) device.
 - Led the engineering efforts for the [hearScope](https://www.hearxgroup.com/hearscope), a cutting-edge digital smartphone otoscope.
-** Developed, tested, and validated the machine learning model for hearScope to enable automatic detection of ear disease.
-** hearScope achieved finalist status at the 2018 MIT Solve Challenge in New York and the 2019 ASME Innovation Showcase in Kenya.
+  ** Developed, tested, and validated the machine learning model for hearScope to enable automatic detection of ear disease.
+  ** hearScope achieved finalist status at the 2018 MIT Solve Challenge in New York and the 2019 ASME Innovation Showcase in Kenya.
 
 From September 2016 to December 2017 as Quality Control Manager
+
 - Managed international medical device approvals for Europe (CE), United States (FDA) and Australia (TGA) including
-technical documentation and external audits.
+  technical documentation and external audits.
 - Designed and implemented an ISO 13485 medical device quality management system.
 
 Tools: TensorFlow, Python, Numpy, Matplotlib, Ultimaker
 
 ### Chromar Technology (Optical Systems Design)
+
 From January 2014 to December 2015 as Project Manager
+
 - Apprenticeship under Tymen Nagel, a world-renowned optical system designer.
 - Learned how to design optical systems for various applications, including lenses, mirrors, and other optical components.
 - Gained hands-on experience with optical design software and with manufacturing and testing of optical systems.
@@ -82,16 +92,19 @@ From January 2014 to December 2015 as Project Manager
 Tools: Zemax, Optalix
 
 ### CMTI Consulting (Engineering Consulting)
+
 From January 2011 to January 2014 as Junior Engineer
+
 - Designed structures and machines to meet ISO standards and created 3D models using SolidWorks.
 - Verified designs through engineering calculations and finite element analysis using Siemens NX.
 - Wrote technical reports, created engineering drawings and met with clients to discuss.
-** Engineered and fabricated a stainless steel assembly jig for a large electric motor.
-** Developed and constructed a testing facility for underground mining robots utilizing a tiltable shipping container.
+  ** Engineered and fabricated a stainless steel assembly jig for a large electric motor.
+  ** Developed and constructed a testing facility for underground mining robots utilizing a tiltable shipping container.
 
 Tools: SolidWorks, Siemens NX, Procon
 
 ### Southern Implants (Dental Implant Manufacturer)
+
 - Completed a 3 Month student internship in January 2010 focussing on medical device market research and testing.
 
 ## Publications
@@ -109,6 +122,7 @@ Tools: SolidWorks, Siemens NX, Procon
   Cape Town).
 
 ## Courses and certifications
+
 - Mastering REST APIs with FastAPI (Udemy)
 - Docker & Kubernetes: The Complete Practical Guide (Udemy)
 - Beginning C++ Programming - From Beginner to Beyond (Udemy)
