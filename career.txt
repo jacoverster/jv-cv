@@ -1,8 +1,8 @@
-# Jaco Verster's Professional Career
+# Jaco Verster's Career Summary
 
 > A factual timeline of professional education, experience, publications and achievements.
 
-Noteworthy achievements are marked with a **.
+Noteworthy achievements are marked with **.
 
 ## Education
 
@@ -15,12 +15,12 @@ Noteworthy achievements are marked with a **.
   Coursework: Musculoskeletal Biomechanics, Human Anatomy and Physiology and Medical Image Processing.
   Dissertation: A structured light solution for detecting scapular dyskinesis.
 
-
 ## Professional experience
 
 ### Council for Scientific and Industrial Research (CSIR) (Government Agency)
 In the Industrial AI group at the Centre for Robotics and Future Production
 From September 2021 to present as Senior Research and Development Engineer
+
 - Championed Docker containerization across multiple projects, ensuring better consistency.
 - Developed and deployed several object detection systems to solve industry related problems,
   including pothole and traffic sign detection.
@@ -48,6 +48,7 @@ Tools: Scikit-Learn, TensorFlow, Python, Tkinter, Numpy, Scipy, Matplotlib
 
 ### HearX (Hearing Healthcare Startup)
 From January 2021 to August 2021 as Head of AI
+
 - Developed an AI strategy and initiated efforts to implement it across the organization.
 - Supervised model development, testing and validation of machine learning models for fitting hearing aids.
 - Lead clinical validation efforts for machine learning models used in healthcare applications.
@@ -55,6 +56,7 @@ From January 2021 to August 2021 as Head of AI
   streamline machine learning workflows.
 
 From January 2018 to December 2020 as Biomedical Engineer
+
 - Managed a team of engineers and technicians as part of a medical device manufacturing department.
 - Solved complex manufacturing and logistical problems across various time-zones to deliver products on-time.
 - Designed and 3D printed various parts used for medical device purposes.
@@ -66,6 +68,7 @@ From January 2018 to December 2020 as Biomedical Engineer
 ** hearScope achieved finalist status at the 2018 MIT Solve Challenge in New York and the 2019 ASME Innovation Showcase in Kenya.
 
 From September 2016 to December 2017 as Quality Control Manager
+
 - Managed international medical device approvals for Europe (CE), United States (FDA) and Australia (TGA) including
 technical documentation and external audits.
 - Designed and implemented an ISO 13485 medical device quality management system.
@@ -74,6 +77,7 @@ Tools: TensorFlow, Python, Numpy, Matplotlib, Ultimaker
 
 ### Chromar Technology (Optical Systems Design)
 From January 2014 to December 2015 as Project Manager
+
 - Apprenticeship under Tymen Nagel, a world-renowned optical system designer.
 - Learned how to design optical systems for various applications, including lenses, mirrors, and other optical components.
 - Gained hands-on experience with optical design software and with manufacturing and testing of optical systems.
@@ -85,6 +89,7 @@ Tools: Zemax, Optalix
 
 ### CMTI Consulting (Engineering Consulting)
 From January 2011 to January 2014 as Junior Engineer
+
 - Designed structures and machines to meet ISO standards and created 3D models using SolidWorks.
 - Verified designs through engineering calculations and finite element analysis using Siemens NX.
 - Wrote technical reports, created engineering drawings and met with clients to discuss.
@@ -94,14 +99,13 @@ From January 2011 to January 2014 as Junior Engineer
 Tools: SolidWorks, Siemens NX, Procon
 
 ### Southern Implants (Dental Implant Manufacturer)
-- Completed a 3 Month student internship in January 2010 focussing on medical device market research and testing.
 
+- Completed a 3 Month student internship in January 2010 focussing on medical device market research and testing.
 
 ## Publications
 
-- Verster, J., Roux, P., Magweregwede, F., de Ronde, W., Crafford, G., Mashaba, M., Turundu, S., Mpofu, M., Prinsloo, J., Ferreira,
-  P. and Brodner, H., 2023. A digital twin framework to support vehicle interaction risk management in the mining industry.
-  In MATEC Web of Conferences (Vol. 388, p. 11002). EDP Sciences.
+- Verster, J., Roux, P., Magweregwede, F., de Ronde, W., et al., 2023. A digital twin framework to support vehicle interaction risk
+  management in the mining industry. In MATEC Web of Conferences (Vol. 388, p. 11002). EDP Sciences.
 - Botha, N., Van Eden, B., Lehman, L. and Verster, J.J., 2023. Prototype design of an aerial robotic platform for indoor applications.
 - Naidoo, T., Verster, J.J. and Marais, S.T., 2022. A cloud-based road infrastructure analysis system using machine learning.
 - Verster, J., et al., 2020, AI-assisted Diagnosis for Middle Ear Pathologies. In Virtual Conference on Computational
@@ -110,7 +114,6 @@ Tools: SolidWorks, Siemens NX, Procon
   In Frontiers in Biomedical Devices (Vol. 41037, p. V001T07A004). American Society of Mechanical Engineers.
 - Verster, J., 2018. A structured light solution for detecting scapular dyskinesis (master’s dissertation, University of
   Cape Town).
-
 
 ## Courses and certifications
 
