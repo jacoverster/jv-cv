@@ -24,4 +24,4 @@ extensive experience in PyTorch, TensorFlow, Docker, and Python.
 
 ## CV
 
-See [career.md](career.md)
+See [career.txt](career.txt) document.
