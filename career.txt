@@ -32,6 +32,14 @@ From September 2021 to present as Senior Research and Development Engineer
 
 Tools: PyTorch, TensorFlow, FastAPI, React, CI/CD, Docker, Pandas, OpenCV, Nuitka, SQLite
 
+### Thinkstash (Startup)
+From April 2024 to present as Founder
+
+- Built [Thinkstash](https://www.thinkstash.org/) to enable the creation of Large Language Model agent
+  powered second braing. Currently undergoing limited public beta testing.
+
+Tools: LLMs, LangChain, LangSmith, Docker
+
 ### Private consulting work
 Ad hoc after hours work for various clients.
 
